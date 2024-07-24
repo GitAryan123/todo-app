@@ -1,0 +1,13 @@
+button {
+  border: 1px solid blue;
+  border-radius: 4px;
+  background-color: blue;
+  color: white;
+  height: 100%;
+  width: 100%;
+  text-transform: capitalize;
+  font-size: 1rem;
+}
+button:hover {
+  background-color: rgb(6, 6, 129);
+}
